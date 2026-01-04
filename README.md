@@ -1,8 +1,9 @@
 # cbds.dev
 
-Welcome to my GitHub Pages site, still very much under construction.
+Welcome to my new website, hosted for free by [GitHub Pages](https://docs.github.com/en/pages).
 
-For now, you can check out my LinkedIn profile at… https://www.linkedin.com/in/clbds or scroll through my BlueSky feed at… https://bsky.app/profile/cbds.dev
+For now, you can check out my [LinkedIn profile](https://www.linkedin.com/in/clbds).\
+You can also scroll through my [BlueSky feed](https://bsky.app/profile/cbds.dev).
 
 Thanks for visiting!
 
